@@ -1,0 +1,132 @@
+﻿PARAGRAPH STATS
+Old: 364 New: 364
+Added paragraphs: 26
+Removed paragraphs: 26
+Changed pairs: 157
+
+=== REMOVED (first 25) ===
+- Welcome to the Brihadishwara Temple, one of the true marvels of the magnificent Chola dynasty! The temple is situated in the South Indian town of Than
+- Miya.m, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia CommonsMiya.m, CC BY-SA 3.0 <https://creativecommons.org/licenses
+- Miya.m, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+- Miya.m, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+- Cheras* (reign: 3rd c. BCE û 5th c. CE)
+- *The three great dynasties, Cheras, Cholas and Pandyas, played a dominant role in shaping Tamilikam (the ancient Tamil country), in Southern India. Wh
+- Venu62~commonswiki assumed (based on copyright claims)., Public domain, via Wikimedia CommonsVenu62~commonswiki assumed (based on copyright claims)., 
+- Venu62~commonswiki assumed (based on copyright claims)., Public domain, via Wikimedia Commons
+- Venu62~commonswiki assumed (based on copyright claims)., Public domain, via Wikimedia Commons
+- Mural of Rajaraja Chola and his three queens worshipping Lord Shiva in the form of NatarajaMural of Rajaraja Chola and his three queens worshipping Lo
+- Mural of Rajaraja Chola and his three queens worshipping Lord Shiva in the form of Nataraja
+- Mural of Rajaraja Chola and his three queens worshipping Lord Shiva in the form of Nataraja
+- The Brihadishwara Temple is a prime example of Chola architecture, characterized by its towering vimana (temple tower) and intricate sculptural embell
+- The original Chola built structures of this 11th-century temple included two gopura (gateways), the main temple with its massive Vimana, and colonnade
+- In the centuries that followed, the temple was expanded and added to by subsequent rulers and dynasties, including the Pandyas, the Nayakas and the Ma
+- Despite all these secular and military uses, the temple with its colossal main deity, the Lingam (representing Lord Shiva), still serves today as full
+- 130,000 tons of granite that were used to build the temple were carefully selected and sourced from the famed granite quarries of Pudukkottai, approxi
+- Rajaraja undertook the major part of the expense for building the temple, with funds coming from his various conquests. Other members of the royal fam
+- Inscriptions can be seen covering the surfaces of many ancient Indian temples and monuments. It is estimated that there are 60,000 such inscriptions, 
+- Desiree Ann. A, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+- On the east side of the entrance, on the first level, from left to right, you see a seated Parvati, Vallabha Ganapathi with ten arms, Rishabha Vahanar
+- Nandi Mandapam (Map:4)
+- Within the main temple complex, the first structure you see in front of you is the pillared Nandi Mandapam (Hall of the Nandi bull).
+- Temple Tree: All South Indian temples have a special tree and the Vanni (Prosopis cineraria) and Sarakonnai (Cassia Fistula) are identified as the Bri
+- Chandikeswara is also the caretaker of Lord ShivaÆs properties. Rub your hands in front of his shrine to assure him that you are not taking anything f
+
+=== ADDED (first 25) ===
++ The Brihadishwara Temple is a prime example of Chola architecture, characterized by its towering Vimana (temple tower) and intricate sculptural embell
++ The original Chola built structures of this 11th century temple included two gopura (gateways), the main temple with its massive Vimana, and colonnade
++ In the centuries that followed, the temple was expanded and added to by subsequent rulers and dynasties, including the Pandyas, the Nayakas and the Ma
++ Despite all these secular and military uses, the temple with its colossal main deity, the Shiva Lingam (aniconic representation of Lord Shiva), still 
++ 130,000 tons of granite that were used to build the temple were carefully selected and sourced from the famed granite quarries of Pudukkottai, approxi
++ Rajaraja undertook the major part of the expense for building the temple, with funds coming from his various conquests. Other members of the royal fam
++ Etiquette for Visiting the Brihadishwara Temple: The temple welcomes visitors and devotees from all over the world. While visitors of all races and re
++ On the western (back) side of the entrance's first level there are sculptures of Krishna playing with Gopikas (cowherds) under a tree on the left-hand
++ East Cloister Wall
++ The small section of the eastern cloister immediately to the left of the Rajarajan Tiruvasal contains a row of Shiva Lingams. Rajaraja and subsequent 
++ In the middle of the southern cloister, next to the Varahi Amman shrine (Map: 5) is a very interesting statue of Nandi. Some historians believe that t
++ Further along the southern cloister is the Temple Museum, a short section of the Cloister that contains several Chola and later period sculptures. A l
++ On the approach to the main temple and the sanctum, visitors pass through two halls: the Mukha Mandapam (the main community hall) and the Maha Mandapa
++ The barrel-roofed Interpretation Center sits in the middle of the southern wall of the Thiruchutru Maligai and contains a wealth of information about 
++ In addition, replicas of the ancient 1000-year Chola frescos and dance sculptures (Karanas) that are inside the inner circumambulatory passage (closed
++ The sanctum houses a single stone sculpture of Subrahmanya (also known as Murugan) in his Shanmukha (six-faced) form, seated on a peacock, accompanied
++ The Maha Mandapam, known as the Mallapa Mandapam has elaborately carved and painted pillars and ceiling and added frescos depicting portraits of Marat
++ In 1931, a young professor from Annamalai University, S.K. Govindasamy, was examining the dark, 2.7m (7Æ) wide passage around the sanctum of the templ
++ How To Get Here
++ Thanjavur is easily accessible by road, train and air from Chennai, Bengaluru, and other major Indian cities and international hubs.
++ By Air: The closest airport, Tiruchirapalli (Trichy) International Airport (TRZ), is roughly 59 km from Thanjavur. Daily flights from Chennai, Bengalu
++ By Train: Thanjavur Junction (TJ) connects directly to major cities including Chennai, Bengaluru, Coimbatore, and Rameswaram.
++ By Road: National and state highways connect Thanjavur smoothly to regional hubs like Chennai (about a 6-to-7-hour drive via NH36), Madurai, and Coimb
++ Accommodations
++ Visitors to Thanjavur can find accommodations at hotels and private residences through services like AirBnB.
+
+=== CHANGED (first 20) ===
+OLD: The Brihadishwara Temple
+NEW: Welcome to the world of the Brihadishwara Temple, one of the true marvels of the magnificent Chola d
+---
+OLD: The temple was originally called the Rajarajeeswaram Temple and later the Peruvudaiyar Temple. In th
+NEW: The temple was originally called the Rajarajeshwaram Temple and later the Peruvudaiyar Temple. In th
+---
+OLD: As seen from historical records and archaeological evidence, the region of modern Tamil Nadu and oth
+NEW: Historical records and archaeological evidence show that the region of modern Tamil Nadu and other p
+---
+OLD: Noted for rock-cut temples with square pillars.
+NEW: Noted for rock-cut temples with square pillars that inspired the pillars in the Thanjavur temple.
+---
+OLD: Pandyas* (reign: 4th-3rd c. BCE û 13th-14th c. CE)
+NEW: Pandyas (reign: 4th-3rd c. BCE û 13th - 14th c. CE)
+---
+OLD: Two periods of imperial dominance: 6th-10th c. CE but fell into a slow decline with the rise of the 
+NEW: Two periods of imperial dominance before and after the Chola period.
+---
+OLD: The Pandyas are celebrated in the earliest available Tamil poetry.
+NEW: Cheras1 (reign: 3rd c. BCE û 5th c. CE)
+---
+OLD: Cholas* (Reign: Early Cholas û 600 BCE û 300 CE; Imperial Cholas û 848 CE û 1070 CE; Later Cholas û 
+NEW: Cholas1 (reign: Early Cholas û 600 BCE û 300 CE; Imperial Cholas û 848 CE û 1070 CE; Later Cholas û 
+---
+OLD: Group of South Indian dynasties emerging after the fall of Vijayanagara.
+NEW: Group of South Indian dynasties emerging after the fall of Vijayanagara Empire.
+---
+OLD: Built several other significant temples.
+NEW: Built several other noteworthy temples.
+---
+OLD: The mighty and powerful Chola dynasty was one of the longest-ruling dynasties in Southern Indian his
+NEW: The mighty and powerful Chola dynasty was one of the longest-ruling dynasties in Southern Indian his
+---
+OLD: Nipuna Weerasinghe, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Com
+NEW: His son, Rajendra I extended the reach of the kingdom up to the River Ganges in the north and throug
+---
+OLD: Nipuna Weerasinghe, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Com
+NEW: Nipuna Weerasinghe, CC BY-SA 4.0, via Wikimedia Commons
+---
+OLD: Nipuna Weerasinghe, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Com
+NEW: Nipuna Weerasinghe, CC BY-SA 4.0, via Wikimedia Commons
+---
+OLD: The Chola kings were great patrons of learning, establishing Vedic colleges to support education whe
+NEW: The Chola kings were great patrons of learning, establishing Vedic colleges to support education whe
+---
+OLD: While Rajaraja was a devout Shaivite (Hindu follower of Lord Shiva), his rule was marked by religiou
+NEW: While Rajaraja was a devout Shaivite (Hindu follower of Lord Shiva), his rule was marked by religiou
+---
+OLD: The upper part of the Thiruchtru Maligai, the outer corridor in the Tanjore temple, served as a plac
+NEW: The upper part of the Thiruchutru Maligai, the outer corridor in the Tanjore temple, served as a pla
+---
+OLD: The Brihadishwara Temple
+NEW: The Building of the Brihadishwara Temple
+---
+OLD: Rajaraja was impressed with the Pallava style of architecture, particularly with the Shore Temple in
+NEW: Rajaraja was impressed with the Pallava style of architecture, particularly with the Shore Temple in
+---
+OLD: Rajaraja commissioned Kunjaramallan to be the master architect (sthapati) to design and build the Br
+NEW: Rajaraja commissioned Kunjaramallan to be the master architect (sthapati) to design and build the Br
+---
+BOLD OLD count unique: 39
+BOLD NEW count unique: 39
+Bold ADDED: ['Accommodations', 'By Air:', 'By Road:', 'By Train:', 'Cholas', 'How To Get Here', 'Idol Smuggling (20th century):', 'Major Attractions', 'Pandyas', 'Thanjavur Junction (TJ)', 'Tiruchirapalli (Trichy) International Airport (TRZ)', 'inscriptions']
+Bold REMOVED: ['Celestial dancers û', 'Cholas*', 'Conservation', 'Evolution of the Temple Structures', 'Idol Smuggling (20th Century):', 'Looting and Theft', 'Maharani Kamakshi BaiÆs Efforts to Preserve Thanjavur History', 'Nataraja (dancing Shiva) statue', 'Palaces & Museums', 'Pandyas*', 'Repair and Restoration', 'Sadhaya Vizha: (October/November; Tamil month Aippasi):']
+
+MEDIA old: 99 new: 109
+Unique image hashes old: 96 new: 105
+New unique images (by content hash): 64
+Removed unique images: 55
+New media files: ['word/media/hdphoto1.wdp', 'word/media/hdphoto2.wdp', 'word/media/hdphoto3.wdp', 'word/media/hdphoto4.wdp', 'word/media/image1.jpeg', 'word/media/image10.jpeg', 'word/media/image104.png', 'word/media/image105.jpeg', 'word/media/image15.png', 'word/media/image17.jpeg', 'word/media/image2.jpeg', 'word/media/image21.jpeg', 'word/media/image25.jpeg', 'word/media/image26.jpeg', 'word/media/image28.jpeg']
+Removed media files: ['word/media/hdphoto1.wdp', 'word/media/hdphoto2.wdp', 'word/media/hdphoto3.wdp', 'word/media/hdphoto4.wdp', 'word/media/hdphoto5.wdp', 'word/media/hdphoto6.wdp', 'word/media/hdphoto7.wdp', 'word/media/image1.jpeg', 'word/media/image10.png', 'word/media/image12.jpeg', 'word/media/image16.jpeg', 'word/media/image20.jpeg', 'word/media/image21.jpg', 'word/media/image23.png', 'word/media/image24.jpeg']
